@@ -1,6 +1,6 @@
 # Fashion-MNIST
 
-Implemetation for Non-Kaggle Data pre-processing yet to be implemented
+-- Implemetation for Non-Kaggle Data pre-processing yet to be implemented -- 
 
 The project assigned by Professor Wagner involved investigating the vast array of subject areas presented in MAS 4115, and implementing a personal notebook with relevant code pertaining to the experimentation of that subject area. The basis for my project is derived from our recent exploration into the rather untiuitive architecture, and implementation of Convolutional Neural Networks. The intersection of the research into the subject area led me into the use of computationally-aiding optimization such as HyperOpt and Hyperas to optimize hyperparameters with respect to minimzing the loss error function specified for the CNN.
 
