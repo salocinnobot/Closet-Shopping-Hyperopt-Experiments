@@ -1,4 +1,4 @@
-# Hyperas/HyperOpt Experiments for Fashion-MNIST
+# Closet Shopping: Hyperas/HyperOpt Experiments for Fashion-MNIST
 
 -- Implemetation for Non-Kaggle Data pre-processing yet to be implemented -- 
 
